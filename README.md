@@ -1,7 +1,7 @@
 # KEST3LN05EU_LOKAVERKEFNI_V_2024
 Myndir og comment fyrir KEST3LN05EU Lokaverkefni
 
-
+<br>
 1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
    
 ![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/a368021f-4314-4180-a625-7bf87c93eabc)
@@ -18,6 +18,7 @@ til að breyta hostname og domain name notum við
 
 
 
+<br>
 2. configure server1 with static IP Address, from the IP Address block 192.168.100.0/24. The
 server must be configured with the 10th usable IP Address.
 

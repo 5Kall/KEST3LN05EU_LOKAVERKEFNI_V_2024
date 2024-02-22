@@ -11,7 +11,3 @@ Network adapter1 stilltur á custom og VMnet8 og adapter2 stilltur á VMnet1
 
 til að breyta hostname og domain name notum við
 
-sudo hostname dpp.is
-
-sudo nanno /etc/hostname 
-![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/9b55f7aa-8781-4a4a-848f-6e8258f17c02)

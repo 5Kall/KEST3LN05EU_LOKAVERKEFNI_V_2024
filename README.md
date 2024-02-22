@@ -14,9 +14,12 @@ til að breyta hostname og domain name notum við
 
 
 
+hluti 2
+opnað var "/etc/dhcp.conf" til þess að breyta stillingar þannig að server1 gefur frá sér static ip tölu (sjá mynd fyrir virkni og uppsetninu)
 
-Spurning 2
 <img width="861" alt="server-ip-a" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/1e127d3b-1cb0-41f0-a9f9-06b4b4e050a7">
+
+stillingar í "/etc/netplan/01-network-manager-all.yaml" til þess að stilla static ip tölu við server
 <img width="433" alt="Server-network" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/c35a875b-9e41-4eb7-ab9c-86e375d62352">
 
 

@@ -1,6 +1,9 @@
 # KEST3LN05EU_LOKAVERKEFNI_V_2024
 Myndir og comment fyrir KEST3LN05EU Lokaverkefni
 
+
+1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
+2. 
 ![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/a368021f-4314-4180-a625-7bf87c93eabc)
 
 
@@ -10,11 +13,13 @@ Network adapter1 stilltur á custom og VMnet8 og adapter2 stilltur á VMnet1
 
 
 til að breyta hostname og domain name notum við
-<img width="860" alt="Server-dhcp" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/5a31cf3a-d832-4eb9-864a-80a3de9dac2b">
 
 
 
-hluti 2
+
+2. configure server1 with static IP Address, from the IP Address block 192.168.100.0/24. The
+server must be configured with the 10th usable IP Address.
+
 opnað var "/etc/dhcp.conf" til þess að breyta stillingar þannig að server1 gefur frá sér static ip tölu (sjá mynd fyrir virkni og uppsetninu)
 
 <img width="861" alt="server-ip-a" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/1e127d3b-1cb0-41f0-a9f9-06b4b4e050a7">
@@ -23,6 +28,8 @@ stillingar í "/etc/netplan/01-network-manager-all.yaml" til þess að stilla st
 <img width="433" alt="Server-network" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/c35a875b-9e41-4eb7-ab9c-86e375d62352">
 
 
+
+<img width="860" alt="Server-dhcp" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/5a31cf3a-d832-4eb9-864a-80a3de9dac2b">
 
 spurning 3
 <img width="322" alt="sql-code" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/ee9b6243-6125-4ff2-842a-4631993e0b26">

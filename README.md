@@ -1,0 +1,2 @@
+# KEST3LN05EU_LOKAVERKEFNI_V_2024
+lokaverkefni fyrir vor 2024

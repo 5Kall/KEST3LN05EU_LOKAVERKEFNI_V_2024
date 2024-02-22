@@ -3,7 +3,7 @@ Myndir og comment fyrir KEST3LN05EU Lokaverkefni
 
 
 1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is
-2. 
+   
 ![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/a368021f-4314-4180-a625-7bf87c93eabc)
 
 
@@ -14,6 +14,7 @@ Network adapter1 stilltur á custom og VMnet8 og adapter2 stilltur á VMnet1
 
 til að breyta hostname og domain name notum við
 
+![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/e5d81d52-a457-441a-909a-304a3ec78478)
 
 
 

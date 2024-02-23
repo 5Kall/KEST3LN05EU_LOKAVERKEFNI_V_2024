@@ -89,8 +89,13 @@ Cube open-source software.
 <br>
 11. Install and configure shared printers for each group, only users that belong to the group
 should print only, accept IT and Management groups should print and manage the printers.
+<br>
 
+<br>
 12. For security reasons, install and configure SSH on the server and clients, SSH login should
 use RSA keys instead of the password authentication.
+<br>
 
+<br>
 13. All unused ports should be closed, use NMAP for testing.
+<br>

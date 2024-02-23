@@ -61,6 +61,7 @@ department ID, department name. Each department is in a different location. Loca
 identified by their location ID, city, Address, and zip code. One or more employees work on
 different jobs, and the jobs are identified by Job ID, job title, Min salary and max salary.
 <br>
+
 <img width="322" alt="sql-code" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/ee9b6243-6125-4ff2-842a-4631993e0b26">
 <img width="416" alt="sql-code2" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/c944dd41-f4ce-4320-a164-70ab546d3c57">
 <img width="418" alt="sql-running" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/84120af6-29bd-4192-bf10-7280ad164a27">

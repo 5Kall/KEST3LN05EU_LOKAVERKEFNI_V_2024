@@ -37,13 +37,13 @@ stillingar í "/etc/netplan/01-network-manager-all.yaml" til þess að stilla st
 3. Install and configure DHCP on server1, so both clients get an IP Addresses, Gateway, DNS
 IP address and domain name automatically via HDCP.
 <br>
-<img width="860" alt="Server-dhcp" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/5a31cf3a-d832-4eb9-864a-80a3de9dac2b">
+
 
 <br>
 4. Install and configure DNS server on server1, so Hostnames are resolved to IP Addresses.
 <br>
 
-
+<img width="860" alt="Server-dhcp" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/5a31cf3a-d832-4eb9-864a-80a3de9dac2b">
 
 <br>
 5. Create the users accounts using a script, see the Users file.

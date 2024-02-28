@@ -77,10 +77,21 @@ Friday.
 synchronize the time of the clients.
 <br>
 
+<img width="532" alt="ntp-client1" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/fc8a4aa8-bd59-4ab2-a32b-c0f00110c979">
+<img width="860" alt="ntp-client1-showcase" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/39f49dda-445e-4973-bd2a-f33caa65c0d1">
+<img width="421" alt="ntp-client-centos" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/814379e5-b6e9-4196-b720-83c8c4bd5ce4">
+<img width="428" alt="ntp-client-centos-2" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/3e13b369-ce53-457a-9ee0-40dfddb90401">
+<img width="517" alt="ntp-running-client2" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/ec1d49be-443d-42d9-86ce-6c00ccec2d4c">
+<img width="860" alt="ntp-server1" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/d3b26a19-75f8-4d29-9c29-fd8cdcde5d91">
+
+
 <br>
 9. Install and configure syslog server on server1, server1 should get logs from both the clients
 for proactive management and monitoring.
 <br>
+
+<img width="860" alt="syslog-server1-running" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/7570b59d-5638-44a6-bfb6-eedab37bbf72">
+
 
 <br>
 10. Install and configure Postfix on server1, so users can send and receive emails using Round
@@ -96,6 +107,11 @@ should print only, accept IT and Management groups should print and manage the p
 12. For security reasons, install and configure SSH on the server and clients, SSH login should
 use RSA keys instead of the password authentication.
 <br>
+
+<img width="381" alt="ssh-client-config" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/aa0a88fd-ed52-4d22-977d-4bab62b3d633">
+<img width="860" alt="ssh-client-connection-config-status" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/ccf1ace9-d458-48aa-a523-269c6da8975d">
+<img width="862" alt="ssh-server-config-status-connection" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/06033732-a2cd-4b99-8a9c-60a3671257b7">
+
 
 <br>
 13. All unused ports should be closed, use NMAP for testing.

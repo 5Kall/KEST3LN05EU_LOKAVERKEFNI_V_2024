@@ -37,7 +37,10 @@ stillingar í "/etc/netplan/01-network-manager-all.yaml" til þess að stilla st
 3. Install and configure DHCP on server1, so both clients get an IP Addresses, Gateway, DNS
 IP address and domain name automatically via HDCP.
 <br>
+skipanir:
 
+sudo apt install isc-dhcp-server
+sudo vi /etc/dhcp/dhcpd.conf
 
 við breyttum stillingum í dhcp.conf þar sem breyta subnet dálkinum til þess að leyfa öðrum tölvum að fá rétt subnet mask með ip tölu
 (sjá mynd fyrir virkni og uppsetninu)

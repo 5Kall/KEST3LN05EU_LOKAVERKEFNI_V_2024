@@ -40,6 +40,7 @@ IP address and domain name automatically via HDCP.
 skipanir:
 
 sudo apt install isc-dhcp-server
+
 sudo vi /etc/dhcp/dhcpd.conf
 
 við breyttum stillingum í dhcp.conf þar sem breyta subnet dálkinum til þess að leyfa öðrum tölvum að fá rétt subnet mask með ip tölu
@@ -50,6 +51,15 @@ við breyttum stillingum í dhcp.conf þar sem breyta subnet dálkinum til þess
 <br>
 4. Install and configure DNS server on server1, so Hostnames are resolved to IP Addresses.
 <br>
+
+skipanir: 
+
+apt install bind9 bind9utils bind9-doc -y
+
+systemctl status bind9
+
+
+
 
 Hlöðuðum og stilltum DNS á server nr 1. (sjá mynd fyrir virkni og uppsetninu)
 

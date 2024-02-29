@@ -39,7 +39,8 @@ IP address and domain name automatically via HDCP.
 <br>
 
 
-Hlöðuðum og stilltum DHCP (sjá mynd fyrir virkni og uppsetninu)
+við breyttum stillingum í dhcp.conf þar sem breyta subnet dálkinum til þess að leyfa öðrum tölvum að fá rétt subnet mask með ip tölu
+(sjá mynd fyrir virkni og uppsetninu)
 
 <img width="860" alt="Server-dhcp" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/5a31cf3a-d832-4eb9-864a-80a3de9dac2b">
 

@@ -54,7 +54,9 @@ Hlöðuðum og stilltum DNS á server nr 1. (sjá mynd fyrir virkni og uppsetnin
 <br>
 5. Create the users accounts using a script, see the Users file.
 <br>
+
 (Sjá mynd fyrir virkni og uppsetningu á kóða)
+
 <img width="424" alt="user-add" src="https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/d453f494-66ee-4ebb-a643-a642ed9737ff">
 
 <br>

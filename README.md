@@ -45,7 +45,9 @@ Hlöðuðum og stilltum DHCP (sjá mynd fyrir virkni og uppsetninu)
 <br>
 4. Install and configure DNS server on server1, so Hostnames are resolved to IP Addresses.
 <br>
+
 Hlöðuðum og stilltum DNS á server nr 1. (sjá mynd fyrir virkni og uppsetninu)
+
 ![image](https://github.com/5Kall/KEST3LN05EU_LOKAVERKEFNI_V_2024/assets/89195445/10ad25fb-c7ed-4ed1-b487-749408ad3386)
 
 

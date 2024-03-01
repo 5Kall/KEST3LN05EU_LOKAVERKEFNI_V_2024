@@ -7,11 +7,15 @@
    - Set the hostname of each machine to `server1`, `client1`, and `client2` respectively.
    - Edit the `/etc/hosts` file on each machine to map `ddp.is` to the IP addresses of the machines.
 
-   ![Server and client setup](image-archive\1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is\client2-domain.png)
-   ![Server and client setup](image-archive\1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is\hosname-domin-client1.png)
-   ![Server and client setup](image-archive\1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is\hostname-client2.png)
-   ![Server and client setup](image-archive\1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is\Screenshot 2024-02-20 090252.png)
-   ![Server and client setup](image-archive\1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is\Server-domain-hostname.png)
+   <img src="image-archive/1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is/client2-domain.png" alt="Client 2 Domain" style="max-width: 400px;">
+
+   <img src="image-archive/1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is/hostname-domin-client1.png" alt="Client 1 Hostname" style="max-width: 400px;">
+
+   <img src="image-archive/1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is/hostname-client2.png" alt="Client 2 Hostname" style="max-width: 400px;">
+
+   <img src="image-archive/1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is/Screenshot 2024-02-20 090252.png" alt="Screenshot" style="max-width: 400px;">
+
+   <img src="image-archive/1. Install and configure the server1, client1 and client2 with hostnames and domain as ddp.is/Server-domain-hostname.png" alt="Server Domain Hostname" style="max-width: 400px;">
 
 2. **Configure server1 with static IP Address, from the IP Address block 192.168.100.0/24. The server must be configured with the 10th usable IP Address.**
 
